@@ -30,7 +30,7 @@ I build high-performance trading systems and AI-integrated tools directly from m
 
 ### 📫 Connect with me
 * **GitHub:** [Rajharsh7418](https://github.com/Rajharsh7418)
-* **Telegram:** [@binacementorbot](https://t.me/notaliv)
+* **Telegram:** [@notaliv](https://t.me/notaliv)
 
 *"Engineering solutions where biology meets the blockchain."*
 
