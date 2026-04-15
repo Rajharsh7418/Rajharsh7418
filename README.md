@@ -33,3 +33,20 @@ I build high-performance trading systems and AI-integrated tools directly from m
 * **Telegram:** [@binacementorbot](https://t.me/binacementorbot)
 
 *"Engineering solutions where biology meets the blockchain."*
+
+
+---
+
+### 📊 My Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajharsh7418&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajharsh7418&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajharsh7418&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+*“I’m not a great programmer; I’m just a good programmer with great habits.”*
